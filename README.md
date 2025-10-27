@@ -16,7 +16,7 @@ Founder and Developer of Folo, RSSHub, xLog and DPlayer.
 
 写代码是热爱，写到世界充满爱！
 
-- Read my [Blog](118.195.131.38) to learn more about me
+- Read my [Blog](http://118.195.131.38) to learn more about me
 - Talk with me by [Email](2766503189@qq.com) or [Telegram](https://t.me/prpr233)
 - Follow me on [Twitter](https://twitter.com/DIYdoge) [bilibili](https://space.bilibili.com/440430791) or [Telegram channel](https://t.me/awesomeDIYgod)
 
