@@ -52,7 +52,6 @@
 ### ⭐ GitHub 数据看板
 ![CCE-Li's GitHub stats](https://github-readme-stats.vercel.app/api?username=CCE-Li&show_icons=true&theme=radical&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CCE-Li&layout=compact&theme=radical&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CCE-Li&theme=radical&hide_border=true)
 
 ---
 
