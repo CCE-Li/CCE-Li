@@ -1,29 +1,64 @@
-### <img width="180" height="25" src="https://glitch-art.vercel.app/api/simple?word=Hi%20I'm%20DIYgod&font=Doto" /> 👋
+### 👋 Hi, I'm CCE-Li
+*He/Him | 轻音部在逃程序员🎸 | 代码与下午茶缺一不可*
 
-<picture>
-  <source
-    srcset="https://github-readme-stats-one-bice.vercel.app/api?username=diygod&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=ijkplayer,flv.js,DanmakuFlameMaster,ailab,MagicaSakura,boxing,overlord,gengine,discovery,GoogleTranslate,Weibo-Picture-Store"
-    media="(prefers-color-scheme: dark)" />
-  <source
-    srcset="https://github-readme-stats-one-bice.vercel.app/api?username=diygod&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=ijkplayer,flv.js,DanmakuFlameMaster,ailab,MagicaSakura,boxing,overlord,gengine,discovery,GoogleTranslate,Weibo-Picture-Store"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=diygod&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=ijkplayer,flv.js,DanmakuFlameMaster,ailab,MagicaSakura,boxing,overlord,gengine,discovery,GoogleTranslate,Weibo-Picture-Store"
-    align="right" />
-</picture>
+---
 
-A lovely web developer based in Singapore.
-Founder and Developer of Folo, RSSHub, xLog and DPlayer.
+### 📍 About Me
+- 🎓 **Nanjing Vocational University of Industry Technology** 在读
+- 💻 坚信 *"写代码就像弹吉他，调对参数才能弹出完美旋律"*
+- ☕ 日常状态：`写代码ing` / `摸鱼听轻音少女OP` / `调试bug到深夜`
+- ⏰ 时区：**UTC+8**（和轻音部的下午茶时间同步！）
+- 📫 戳我：[2766503189@qq.com](mailto:2766503189@qq.com)
 
-写代码是热爱，写到世界充满爱！
+---
 
-- Read my [Blog](http://118.195.131.38) to learn more about me
-- Talk with me by [Email](2766503189@qq.com) or [Telegram](https://t.me/prpr233)
-- Follow me on [Twitter](https://twitter.com/DIYdoge) [bilibili](https://space.bilibili.com/440430791) or [Telegram channel](https://t.me/awesomeDIYgod)
+### 🛠️ Tech Stack 我的「演出设备」
+| 分类 | 技能清单 |
+|------|----------|
+| 前端阵线 | Vue, HTML, Astro, JavaScript, TypeScript |
+| 后端根据地 | Java |
+| 整活小工具 | Tampermonkey 脚本, C语言（DIY项目专属） |
 
-Open source is a very expensive thing. My open source journey would not be possible without the help of these individuals and organizations.
+---
 
-<p align="center">
-  <a href="https://github.com/DIYgod/sponsors">
-    <img src="https://raw.githubusercontent.com/DIYgod/sponsors/main/sponsors.wide.svg" />
-  </a>
-</p>
+### 🚀 Featured Projects 我的「原创曲目」
+1. **[cceli-Yui-bot](https://github.com/CCE-Li/cceli-Yui-bot)**
+   - 🎸 轻音少女Yui主题机器人（基于 Tabris-ZX/bocchi 二次开发）
+   - 技术栈：HTML | 许可证：AGPL v3.0
+   - 功能：会发轻音表情包的摸鱼神器！
+
+2. **[Schoolwork-frontend & Schoolwork-backend](https://github.com/CCE-Li?tab=repositories&q=schoolwork)**
+   - 📚 校园实训项目：在线图书商城前后端
+   - 技术栈：Vue + Java | 课程作业里的「满分答卷」
+
+3. **[Monica-cceli](https://github.com/CCE-Li/Monica-cceli)**
+   - ⌚ DIY 墨水屏智能手表（基于 Forairaaaaa/Monica 魔改）
+   - 技术栈：C语言 | 许可证：GPL v3.0
+   - 亮点：戴上它，你就是轻音部最潮的技术担当！
+
+4. **[cceli-tampermonkey](https://github.com/CCE-Li/cceli-tampermonkey)**
+   - 🛠️ 摸鱼专用油猴脚本合集
+   - 功能：网页美化、快捷操作 | 摸鱼效率++，工作快乐++
+
+---
+
+### 🏆 GitHub 成就徽章
+- 🏅 Pull Shark（代码交换小能手）
+- 🎯 YOLO（主打一个随性提交）
+- ✏️ Quickdraw（画画不如写代码）
+
+---
+
+### ⭐ GitHub 数据看板
+![CCE-Li's GitHub stats](https://github-readme-stats.vercel.app/api?username=CCE-Li&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CCE-Li&layout=compact&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CCE-Li&theme=radical&hide_border=true)
+
+---
+
+### 🎵 轻音部名言放送
+> *"放学后的下午茶时间，是人生的至宝！"* —— 平泽唯
+> *"代码写累了？来一杯橙C美式！"* —— 我自己说的😎
+
+---
+© 2025 CCE-Li | 轻音部程序员の专属主页 | Powered by GitHub
