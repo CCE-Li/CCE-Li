@@ -16,7 +16,7 @@
 | 分类 | 技能清单 |
 |------|----------|
 | 前端阵线 | Vue, HTML, Astro, JavaScript, TypeScript |
-| 后端根据地 | Java |
+| 后端根据地 | Java, Python |
 | 整活小工具 | Tampermonkey 脚本, C语言（DIY项目专属） |
 
 ---
