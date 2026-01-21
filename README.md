@@ -15,11 +15,24 @@
 
 ---
 
-### Tech
+## 🛠 Tech Stack
 
-* **Languages:** JavaScript / TypeScript / Java / Python / C++
-* **Frontend:** Vue, HTML, Astro
-* **Tools:** Git, GitHub, Tampermonkey
+### 🚀 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
+![Java](https://img.shields.io/badge/Java-orange?logo=openjdk)
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B)
+
+### 🎨 Frontend
+![Vue](https://img.shields.io/badge/Vue-42b883?logo=vue.js)
+![HTML](https://img.shields.io/badge/HTML5-e34f26?logo=html5)
+![Astro](https://img.shields.io/badge/Astro-000000?logo=astro)
+
+### 🔧 Tools
+![Git](https://img.shields.io/badge/Git-f05032?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+![Tampermonkey](https://img.shields.io/badge/Tampermonkey-00485B)
 
 ---
 
@@ -40,13 +53,6 @@
 
 ![data](https://github.com/CCE-Li/CCE-Li/blob/main/assets/github-contribution-grid-snake-dark.svg)
 
----
-
-### Philosophy
-
-> After-school tea time ends.
->
-> The code you leave behind stays.
 
 ---
 
@@ -54,3 +60,9 @@
 
 ![CCE-Li's GitHub stats](https://github-readme-stats.vercel.app/api?username=CCE-Li\&show_icons=true\&theme=radical\&hide_border=true)
 ![Most Used Langeages](https://camo.githubusercontent.com/dae2779c1f80943e73aeab60b25e65cc1eac3fbe9a8291f5d3d6bdc24eab2bb7/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4343452d4c69266c61796f75743d636f6d70616374267468656d653d7261646963616c26686964655f626f726465723d74727565)
+
+---
+
+> After-school tea time ends.
+>
+> The code you leave behind stays.
