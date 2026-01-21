@@ -2,6 +2,8 @@
 
 **Open Source Contributor | Software Engineering Student**
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Don%60t+Say+Lazy!)](https://git.io/typing-svg)
+
 ---
 
 ### About
@@ -35,6 +37,8 @@
 
 * **cceli-tampermonkey**
   Reusable browser automation scripts
+
+![data](https://github.com/CCE-Li/CCE-Li/blob/main/assets/github-contribution-grid-snake-dark.svg)
 
 ---
 
