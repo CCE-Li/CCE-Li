@@ -1,4 +1,6 @@
 <div align="center">
+
+<div align="center">
   
 ```
  ░▒▓██████▓▒░ ░▒▓██████▓▒░░▒▓████████▓▒░▒▓█▓▒░      ░▒▓█▓▒░ 
@@ -10,6 +12,8 @@
  ░▒▓██████▓▒░ ░▒▓██████▓▒░░▒▓████████▓▒░▒▓████████▓▒░▒▓█▓▒░
                                                   
 ```
+
+</div>
 
 
 **Open Source Contributor | Software Engineering Student**
