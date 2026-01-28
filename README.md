@@ -96,7 +96,7 @@
 * **cceli-tampermonkey**
   Reusable browser automation scripts
 
-![data](https://github.com/CCE-Li/CCE-Li/blob/main/assets/github-contribution-grid-snake-dark.svg)
+![data](https://github.com/CCE-Li/CCE-Li/blob/main/assets/github-user-contribution.svg)
 
 
 ---
