@@ -99,14 +99,6 @@
 ![data](https://github.com/CCE-Li/CCE-Li/blob/main/assets/github-user-contribution.svg)
 
 
----
-
-### GitHub Data View
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CCE-Li&show_icons=true&theme=radical&hide_border=true" alt="CCE-Li's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CCE-Li&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" width="48%" />
-</p>
 
 ---
 
