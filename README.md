@@ -81,21 +81,6 @@
 
 ---
 
-### Projects
-
-* **cceli-Yui-bot** (AGPL v3.0)
-  Secondary development based on *Tabris-ZX/bocchi*
-
-* **Monica-cceli** (GPL v3.0)
-  Embedded project customization based on *Forairaaaaa/Monica*
-
-* **llmedge**
-   Edge-side LLM exploration project, focusing on lightweight deployment,
-   inference constraints, and practical usage scenarios.
-
-* **cceli-tampermonkey**
-  Reusable browser automation scripts
-
 ![data](https://github.com/CCE-Li/CCE-Li/blob/main/assets/github-user-contribution.svg)
 
 
