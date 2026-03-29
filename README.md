@@ -39,24 +39,15 @@
 <div align="center">
   
   <!-- 编程语言 -->
-  ![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B)
   ![Java](https://img.shields.io/badge/Java-orange?logo=openjdk)
   ![Python](https://img.shields.io/badge/Python-blue?logo=python)
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B)
+  ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
 
-  <!-- 前端框架/样式/工程化 -->
-  ![Vue](https://img.shields.io/badge/Vue-42b883?logo=vue.js)
-  ![HTML5](https://img.shields.io/badge/HTML5-e34f26?logo=html5)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3)
-  ![Astro](https://img.shields.io/badge/Astro-000000?logo=astro)
-  ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite)
-  ![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass)
 
   <!-- 工具/版本控制 -->
   ![Git](https://img.shields.io/badge/Git-f05032?logo=git)
   ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
-  ![Tampermonkey](https://img.shields.io/badge/Tampermonkey-00485B)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs)
   ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode)
   ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=white)
