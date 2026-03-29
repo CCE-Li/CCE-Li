@@ -64,7 +64,6 @@
   ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux)
   ![Nmap](https://img.shields.io/badge/Nmap-009639?logo=nmap)
   ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6600?logo=burpsuite)
-  ![Metasploit](https://img.shields.io/badge/Metasploit-ED1C24?logo=metasploit)
   ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark)
   ![GitHack](https://img.shields.io/badge/GitHack-000000?logo=git)
   
