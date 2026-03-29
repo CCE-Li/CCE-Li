@@ -59,7 +59,7 @@
   ![Tampermonkey](https://img.shields.io/badge/Tampermonkey-00485B)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs)
   ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux)
+  ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=white)
 
   <!-- AI本地部署/推理/语音（核心补充） -->
   ![llama.cpp](https://img.shields.io/badge/llama.cpp-000000?logo=c%2B%2B)
