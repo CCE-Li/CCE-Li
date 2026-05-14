@@ -43,11 +43,12 @@
   ![Java](https://img.shields.io/badge/Java-orange?logo=openjdk)
   ![Python](https://img.shields.io/badge/Python-blue?logo=python)
   ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
+  ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
 
 
   <!-- 工具/版本控制 -->
   ![Git](https://img.shields.io/badge/Git-f05032?logo=git)
-  ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+  ![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs)
   ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode)
   ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=white)
